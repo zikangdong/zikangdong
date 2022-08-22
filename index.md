@@ -1,38 +1,21 @@
 ## Welcome to the webpage of Zikang DONG
 
-My name is Zikang Dong I work in analytic number theory. I have ﬁnished my PhD study in pure
-mathematics under supervision of Professor Jie Wu in Univésité Paris-Est Créteil. I defended
-my PhD thesis (titled Distribution de Valeur de la fonction zeta de Riemann) in
-June 22 2022. Before, I got my master’s degree in pure mathematics in Shandong University
-in June 2018 and my bachelor’s degree in Shandong University in mathematics in June 2015.
+
+Hi! My name is Zikang. I work in analytic number theory. I obtained my PhD in June 2022 in [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/) at [Univésité Paris-Est Créteil](https://www.u-pec.fr/), under the supervision of Prof. [Jie Wu](https://lama.u-pem.fr/membres/wu.jie).
+
+Here is my PhD [thesis](https://www.theses.fr/s211943).
+
+Here is my [CV]().
+
+Contact: zikangdong@gmail.com
+
+
+Some links:  
+1.[Arxiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)  
+2.[Research Gate](https://www.researchgate.net/profile/Dong-Zikang)  
+3.[GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ)
 
 
 
 
-### 
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zikangdong/zikangdong/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
