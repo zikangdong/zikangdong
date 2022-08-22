@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to the webpage of Zikang DONG
 
-You can use the [editor on GitHub](https://github.com/zikangdong/zikangdong/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Zikang Dong I work in analytic number theory. I have ﬁnished my PhD study in pure
+mathematics under supervision of Professor Jie Wu in Univésité Paris-Est Créteil. I defended
+my PhD thesis (titled Distribution de Valeur de la fonction zeta de Riemann) in
+June 22 2022. Before, I got my master’s degree in pure mathematics in Shandong University
+in June 2018 and my bachelor’s degree in Shandong University in mathematics in June 2015.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 
+
 
 # Header 1
 ## Header 2
