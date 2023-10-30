@@ -12,8 +12,11 @@ Contact: zikangdong@gmail.com
 
 Some links:  
 1.[Arxiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)  
+
 2.[Research Gate](https://www.researchgate.net/profile/Dong-Zikang)  
+
 3.[GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ)
+
 4.[Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=294426)
 
 
