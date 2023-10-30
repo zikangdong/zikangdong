@@ -18,4 +18,4 @@ I am now a Postdoc in Tongji University since Aug 2022. I work in analytic numbe
 
 
 ## Some links: 
-[Arxiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)， [Research Gate](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)， [GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ)， [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=294426)
+[Arxiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)， [Research Gate]([https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50](https://www.researchgate.net/profile/Zikang-Dong))， [GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ)， [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=294426)
