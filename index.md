@@ -1,13 +1,14 @@
-## Welcome to the webpage of Zikang DONG
+#Zikang DONG
+E-mail: zikangdong@gmail.com
 
-
-Hi! My name is Zikang. I work in analytic number theory. I obtained my PhD in June 2022 in [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/) at [Univésité Paris-Est Créteil](https://www.u-pec.fr/), under the supervision of Prof. [Jie Wu](https://lama.u-pem.fr/membres/wu.jie).
+##About me
+I work in analytic number theory. I obtained my PhD in June 2022 in [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/) at [Univésité Paris-Est Créteil](https://www.u-pec.fr/), under the supervision of Prof. [Jie Wu](https://lama.u-pem.fr/membres/wu.jie).
 
 Here is my PhD [thesis](https://www.theses.fr/s211943).
 
 Here is my [CV](https://github.com/zikangdong/zikangdong.github.io/blob/gh-pages/CV-en.pdf).
 
-Contact: zikangdong@gmail.com
+##Publication and preprints
 
 
 Some links:  
