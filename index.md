@@ -5,7 +5,7 @@ Hi! My name is Zikang. I work in analytic number theory. I obtained my PhD in Ju
 
 Here is my PhD [thesis](https://www.theses.fr/s211943).
 
-Here is my [CV]().
+Here is my [CV](https://github.com/zikangdong/zikangdong.github.io/blob/gh-pages/CV-en.pdf).
 
 Contact: zikangdong@gmail.com
 
@@ -14,7 +14,7 @@ Some links:
 1.[Arxiv](https://arxiv.org/search/?query=zikang+dong&searchtype=all&abstracts=show&order=-announced_date_first&size=50)  
 2.[Research Gate](https://www.researchgate.net/profile/Dong-Zikang)  
 3.[GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=HSSpfrEAAAAJ)
-
+4.[Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=294426)
 
 
 
